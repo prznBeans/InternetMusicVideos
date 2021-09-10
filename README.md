@@ -1,2 +1,2 @@
 # InternetMusicVideos
-Watch and listen to your music online like never before
+Watch and listen to your music videos online like never before!
